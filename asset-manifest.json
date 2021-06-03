@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/myapp/static/css/main.c8c5b278.chunk.css",
+    "main.js": "/myapp/static/js/main.ddba620e.chunk.js",
+    "main.js.map": "/myapp/static/js/main.ddba620e.chunk.js.map",
+    "runtime-main.js": "/myapp/static/js/runtime-main.e7a4036e.js",
+    "runtime-main.js.map": "/myapp/static/js/runtime-main.e7a4036e.js.map",
+    "static/js/2.7d671bad.chunk.js": "/myapp/static/js/2.7d671bad.chunk.js",
+    "static/js/2.7d671bad.chunk.js.map": "/myapp/static/js/2.7d671bad.chunk.js.map",
+    "static/js/3.8892fafc.chunk.js": "/myapp/static/js/3.8892fafc.chunk.js",
+    "static/js/3.8892fafc.chunk.js.map": "/myapp/static/js/3.8892fafc.chunk.js.map",
+    "index.html": "/myapp/index.html",
+    "static/css/main.c8c5b278.chunk.css.map": "/myapp/static/css/main.c8c5b278.chunk.css.map",
+    "static/js/2.7d671bad.chunk.js.LICENSE.txt": "/myapp/static/js/2.7d671bad.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/myapp/static/media/bg-intro-desktop (1).059183ee.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7a4036e.js",
+    "static/js/2.7d671bad.chunk.js",
+    "static/css/main.c8c5b278.chunk.css",
+    "static/js/main.ddba620e.chunk.js"
+  ]
+}
